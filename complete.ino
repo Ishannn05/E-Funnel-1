@@ -42,7 +42,7 @@ int addr = 2;
 int i=0;
 const char *ssid = "Shanu";
 const char *password = "20167635";
-const char *host = "api.thingspeak.com";
+const char *host = "api.thingspeak.com"; // Update the link
 String apiKey = "XB7NAHQUZTG7QKS3";
 
 WiFiClient  client;
