@@ -79,7 +79,7 @@ void loop()
         lcd.print(totalMilliLitres/1000);
         lcd.print(".");
         lcd.print(totalMilliLitres%1000);
-        lcd.println(" L");
+        lcd.println("Lit");
         i=0;
         totalMilliLitres = 0;
       }
